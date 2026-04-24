@@ -5,7 +5,7 @@ import { Card, CardContent } from "@/components/ui/card"
 import { Calendar, Clock, MapPin, Phone } from "lucide-react"
 
 export function ContactSection() {
-  const whatsappNumber = "5513974033731"
+  const whatsappNumber = "5513981708661"
   const whatsappMessage = encodeURIComponent("Olá! Gostaria de agendar uma consulta na Meridions Life.")
   const whatsappLink = `https://wa.me/${whatsappNumber}?text=${whatsappMessage}`
 
@@ -62,7 +62,7 @@ export function ContactSection() {
                   <Phone className="h-5 w-5 shrink-0" />
                   <div>
                     <p className="text-sm font-medium">Telefone</p>
-                    <p className="text-xs text-primary-foreground/80">(13) 97403-3731</p>
+                    <p className="text-xs text-primary-foreground/80">+55 13 98170-8661</p>
                   </div>
                 </div>
               </div>

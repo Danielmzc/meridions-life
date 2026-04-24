@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button"
 import { ChevronDown, Heart, Leaf, MessageCircle, Sparkles } from "lucide-react"
 
 export function HeroSection() {
-  const whatsappNumber = "5513974033731"
+  const whatsappNumber = "5513981708661"
   const whatsappMessage = encodeURIComponent("Olá! Gostaria de agendar uma consulta na Meridions Life.")
   const whatsappLink = `https://wa.me/${whatsappNumber}?text=${whatsappMessage}`
 

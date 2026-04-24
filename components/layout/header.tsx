@@ -16,7 +16,7 @@ export function Header() {
   const [isScrolled, setIsScrolled] = useState(false)
   const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false)
 
-  const whatsappNumber = "5513974033731"
+  const whatsappNumber = "5513981708661"
   const whatsappMessage = encodeURIComponent("Ola! Gostaria de agendar uma consulta na Meridions Life.")
   const whatsappLink = `https://wa.me/${whatsappNumber}?text=${whatsappMessage}`
 
