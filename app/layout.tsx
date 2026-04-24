@@ -13,12 +13,12 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: '/meridions-icon.svg',
+        url: '/meridions-icon.svg?v=3',
         type: 'image/svg+xml',
       },
     ],
-    shortcut: '/meridions-icon.svg',
-    apple: '/meridions-icon.svg',
+    shortcut: '/meridions-icon.svg?v=3',
+    apple: '/apple-icon.svg',
   },
 }
 
