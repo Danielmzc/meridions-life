@@ -27,7 +27,7 @@ export function Footer() {
 
           {/* Location */}
           <p className="text-sm text-muted-foreground">
-            Santos - SP
+            Baixada Santista
           </p>
         </div>
       </div>

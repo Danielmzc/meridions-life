@@ -55,7 +55,7 @@ export function ContactSection() {
                   <MapPin className="h-5 w-5 shrink-0" />
                   <div>
                     <p className="text-sm font-medium">Localização</p>
-                    <p className="text-xs text-primary-foreground/80">Santos - SP</p>
+                    <p className="text-xs text-primary-foreground/80">Baixada Santista</p>
                   </div>
                 </div>
                 <div className="flex items-center gap-3 rounded-xl bg-white/10 p-4 backdrop-blur-sm">

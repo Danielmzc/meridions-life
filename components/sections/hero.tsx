@@ -26,7 +26,7 @@ export function HeroSection() {
           <div className="max-w-2xl text-center lg:text-left">
             <div className="mb-7 inline-flex items-center gap-2 rounded-full border border-primary/15 bg-white/70 px-4 py-2 text-sm font-medium text-primary shadow-sm backdrop-blur">
               <Leaf className="h-4 w-4" />
-              <span>Medicina Tradicional Chinesa em Santos</span>
+              <span>Medicina Tradicional Chinesa na Baixada Santista</span>
             </div>
 
             <h1 className="mb-6 font-[family-name:var(--font-playfair)] text-4xl font-bold leading-tight tracking-normal text-foreground md:text-6xl lg:text-7xl">
