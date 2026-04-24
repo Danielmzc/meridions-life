@@ -7,26 +7,18 @@ const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
 const playfair = Playfair_Display({ subsets: ["latin"], variable: "--font-playfair" });
 
 export const metadata: Metadata = {
-  title: 'Meridions Life | Acupuntura e Medicina Integrativa',
+  title: 'Meridions Life | Acupuntura',
   description: 'Tratamentos de acupuntura, medicina tradicional chinesa e terapias integrativas. Equilibre corpo e mente com profissionais especializados.',
-  generator: 'v0.app',
   keywords: ['acupuntura', 'medicina integrativa', 'medicina chinesa', 'bem-estar', 'saude', 'terapia'],
   icons: {
     icon: [
-      {
-        url: '/icon-light-32x32.png',
-        media: '(prefers-color-scheme: light)',
-      },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
       {
         url: '/icon.svg',
         type: 'image/svg+xml',
       },
     ],
-    apple: '/apple-icon.png',
+    shortcut: '/icon.svg',
+    apple: '/icon.svg',
   },
 }
 

@@ -1,26 +1,13 @@
 <svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    @media (prefers-color-scheme: light) {
-      .background { fill: black; }
-      .foreground { fill: white; }
-    }
-    @media (prefers-color-scheme: dark) {
-      .background { fill: white; }
-      .foreground { fill: black; }
-    }
-  </style>
-  <g clip-path="url(#clip0_7960_43945)">
-    <rect class="background" width="180" height="180" rx="37" />
-    <g style="transform: scale(95%); transform-origin: center">
-      <path class="foreground"
-        d="M101.141 53H136.632C151.023 53 162.689 64.6662 162.689 79.0573V112.904H148.112V79.0573C148.112 78.7105 148.098 78.3662 148.072 78.0251L112.581 112.898C112.701 112.902 112.821 112.904 112.941 112.904H148.112V126.672H112.941C98.5504 126.672 86.5638 114.891 86.5638 100.5V66.7434H101.141V100.5C101.141 101.15 101.191 101.792 101.289 102.422L137.56 66.7816C137.255 66.7563 136.945 66.7434 136.632 66.7434H101.141V53Z" />
-      <path class="foreground"
-        d="M65.2926 124.136L14 66.7372H34.6355L64.7495 100.436V66.7372H80.1365V118.47C80.1365 126.278 70.4953 129.958 65.2926 124.136Z" />
-    </g>
-  </g>
-  <defs>
-    <clipPath id="clip0_7960_43945">
-      <rect width="180" height="180" fill="white" />
-    </clipPath>
-  </defs>
+  <rect width="180" height="180" rx="44" fill="#FFFEFA"/>
+  <circle cx="90" cy="90" r="76" fill="#FFFFFF" stroke="#D7B64A" stroke-width="5"/>
+  <path d="M72 148C55 119 58 72 98 28" stroke="#D7B64A" stroke-width="6" stroke-linecap="round"/>
+  <path d="M98 28C95 48 102 62 119 70C124 49 116 35 98 28Z" stroke="#6AA332" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M66 70C40 67 20 78 8 96C35 101 56 92 66 70Z" stroke="#6AA332" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M54 80C70 75 86 78 98 88" stroke="#6AA332" stroke-width="4" stroke-linecap="round"/>
+  <path d="M104 85C123 77 142 81 160 96C137 103 119 99 104 85Z" stroke="#6AA332" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M118 86C130 87 141 91 152 99" stroke="#6AA332" stroke-width="4" stroke-linecap="round"/>
+  <path d="M82 128C60 124 42 131 28 146C51 153 69 147 82 128Z" stroke="#6AA332" stroke-width="5" stroke-linejoin="round"/>
+  <path d="M48 145C61 140 74 140 86 147" stroke="#6AA332" stroke-width="4" stroke-linecap="round"/>
+  <path d="M92 116H110L114 100L119 132L124 116H142" stroke="#D7B64A" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
